@@ -12,4 +12,6 @@ package entidades;
 public class gato {
     
     private String nombre;
+    
+    private String color;
 }
